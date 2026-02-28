@@ -1,5 +1,5 @@
-import screen 
+from screen import start_screen
 
 if __name__ == "__main__":
-	start_screen()
-	
+    start_screen()
+    
