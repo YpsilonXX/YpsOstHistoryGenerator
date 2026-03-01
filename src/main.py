@@ -1,4 +1,4 @@
-from screen import start_screen
+from screen import *
 
 if __name__ == "__main__":
     start_screen()
